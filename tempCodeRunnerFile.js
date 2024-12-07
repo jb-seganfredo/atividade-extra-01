@@ -1,0 +1,1 @@
+9 - Imprima um padrão de estrela decrescente
